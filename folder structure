@@ -1,0 +1,12 @@
+ViralClipper/
+├── app.py               # Streamlit UI (the main program)
+├── clipper/
+│   ├── __init__.py      # (empty file)
+│   ├── utils.py
+│   ├── downloader.py
+│   ├── transcript.py
+│   ├── virality.py      # the AI agent
+│   ├── editor.py        # ffmpeg cutting / captions / smart crop
+│   └── keywords.py
+├── requirements.txt
+└── run.bat              # double-click launcher
