@@ -1,0 +1,6 @@
+streamlit>=1.36
+yt-dlp>=2024.10.0
+youtube-transcript-api>=1.0.0
+openai>=1.40.0
+opencv-python>=4.8.0
+numpy
